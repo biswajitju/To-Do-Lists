@@ -1,0 +1,12 @@
+TaskList uses external  Materialize css and js 
+Get CDN(Content Delivery Network) from https://materializecss.com/
+
+
+Materialize has a dependency on JQuery 
+Search Jquery CDN on google and go to first link
+or
+Get latest CDN from https://code.jquery.com/ then jQuery 3.x, click uncompress
+
+TaskList uses external font awesome css 
+get CDN for that use https://www.bootstrapcdn.com/ this link 
+or Search font awesome on google and go to first link
